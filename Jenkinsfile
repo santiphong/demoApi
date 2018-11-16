@@ -1,7 +1,7 @@
 pipeline {
     agent none
     environment {
-        imageName = 'santiphong/demoapi'
+        imageName = 'santiphong/demoApi'
         port = 3030
     }
     
